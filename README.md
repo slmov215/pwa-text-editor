@@ -24,6 +24,11 @@ Users may access and utilize the application in a browser by accessing the deplo
 
 The program is simple to use; simply go to the live [URL](https://my-pwa-text-editor-week-19-9be97db16d1d.herokuapp.com/) and start taking notes right away! Users will also see an install option in the nav bar, allowing them to download and use the program for offline usage. Saving notes is handled automatically by the IndexedDB; all that is necessary is for the user to close the window, and the notes will be saved whether the program is used online or offline.
 
+![JATE Screenshoot](https://github.com/slmov215/pwa-text-editor/assets/127278005/84e2a29f-8cce-4a47-bff2-86ab8efa0e60)
+
+![JATE Screenshot 2](https://github.com/slmov215/pwa-text-editor/assets/127278005/223082d0-d37e-4427-a4bc-04bf1ab1c5c9)
+
+
 
 ## License
 [MIT License](https://opensource.org/licenses/MIT)
